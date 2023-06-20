@@ -1,0 +1,15 @@
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\net6.0\YoutubeEgitim.exe
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\net6.0\YoutubeEgitim.deps.json
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\net6.0\YoutubeEgitim.runtimeconfig.json
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\net6.0\YoutubeEgitim.dll
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\net6.0\YoutubeEgitim.pdb
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.csproj.AssemblyReference.cache
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.AssemblyInfoInputs.cache
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.AssemblyInfo.cs
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.dll
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\refint\YoutubeEgitim.dll
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.pdb
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\YoutubeEgitim.genruntimeconfig.cache
+C:\Users\user3\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\net6.0\ref\YoutubeEgitim.dll
